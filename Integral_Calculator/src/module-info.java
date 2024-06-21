@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Integral_Calculator {
-}
